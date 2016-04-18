@@ -1,6 +1,9 @@
-=== Projektidee WolvesAhead, 2016-04-05 ===
+﻿=== Projektidee WolvesAhead, 2016-04-05 ===
 
-Mir ist leider noch nichts eingefallen
+Ich möchte ein 2D Kampf-Spiel erstellen.
+Es soll mehrere Charaktere geben, wovon man sich vor jeder Runde einen aussuchen muss.
+Es soll möglich sein alleine gegen den Computer oder mit einem Freund zusammen auf einer Tastatur zu spielen.
+
 
 === Feedback Alpers, 2016-04-12 ===
 
