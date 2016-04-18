@@ -3,6 +3,7 @@
 Ich möchte ein 2D Kampf-Spiel erstellen.
 Es soll mehrere Charaktere geben, wovon man sich vor jeder Runde einen aussuchen muss.
 Es soll möglich sein alleine gegen den Computer oder mit einem Freund zusammen auf einer Tastatur zu spielen.
+Es wird auf einer Fläche gekämpft die links und rechts Lücken hat, sodass es möglich ist runterzufallen.
 
 
 === Feedback Alpers, 2016-04-12 ===
